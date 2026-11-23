@@ -1,0 +1,16 @@
+STATISTICAL ROBUSTNESS AND SENSITIVITY ANALYSIS
+Student: SUNGA
+Student ID: TUPM-26-1215
+Random Seed: 261215
+Selected Features: Feature_297, Feature_032, Feature_066, Feature_287, Feature_018
+Bootstrap Repetitions: 250
+Largest Change in Mean Difference: 13.139245
+Features with Changed Difference Sign: 0
+Features with Changed Ranking: 0
+Reproducibility Verified: True
+
+Interpretation:
+- Available-case analysis uses only observed measurements.
+- Median imputation replaces missing values using full-data medians.
+- Bootstrap confidence intervals describe sampling uncertainty.
+- Differences between strategies indicate sensitivity to preparation.
